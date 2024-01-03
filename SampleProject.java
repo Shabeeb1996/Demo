@@ -5,7 +5,7 @@ public class SampleProject {
 	
 		public static void main(String args[]){  
 		//creating two matrices    
-		int a[][]={{1,1,1},{2,2,2},{3,3,3}};    
+		int a[][]={{1,1,1},{2,2,2},{4,4,4}};    
 		int b[][]={{1,1,1},{2,2,2},{3,3,3}};    
 		    
 		//creating another matrix to store the multiplication of two matrices    
